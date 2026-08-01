@@ -3,13 +3,15 @@
 ## 🎥 Project Demonstration
 
 <p align="center">
-  <a href="[VIDEO_LINK](https://youtu.be/CnrpAkT49ro)">
-    <img src="Images/Thumbnail.png" width="900" alt="Project Demonstration">
-  </a>
+  <img src="Images/Thumbnail.png" width="900" alt="Project Demonstration">
 </p>
 
 <p align="center">
-<b>▶️ Click the image above to watch the complete project demonstration.</b>
+
+### ▶️ **Watch the Full Demonstration on YouTube**
+
+🔗 https://youtu.be/CnrpAkT49ro
+
 </p>
 
 ### Industrial Automation using Allen-Bradley MicroLogix 1100 PLC and Wonderware InduSoft Web Studio (AVEVA Edge)
