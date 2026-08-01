@@ -1,5 +1,17 @@
 # 🏭 Industrial Bottle Packaging Line
 
+## 🎥 Project Demonstration
+
+<p align="center">
+  <a href="[VIDEO_LINK](https://youtu.be/CnrpAkT49ro)">
+    <img src="Images/Thumbnail.png" width="900" alt="Project Demonstration">
+  </a>
+</p>
+
+<p align="center">
+<b>▶️ Click the image above to watch the complete project demonstration.</b>
+</p>
+
 ### Industrial Automation using Allen-Bradley MicroLogix 1100 PLC and Wonderware InduSoft Web Studio (AVEVA Edge)
 
 > A complete industrial bottle packaging line simulation featuring automated bottle filling, capping, quality verification, sorting, production monitoring, alarm management, manual fault simulation, KPI tracking, and animated HMI visualization using modular PLC programming.
